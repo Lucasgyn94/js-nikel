@@ -1,0 +1,27 @@
+@media (min-width: 780px) {
+    #login {
+        background: linear-gradient(120deg, #4c79d3 45.9%, #ffffff 46%) no-repeat fixed;
+    }
+}
+
+.coins {
+    position: absolute;
+    bottom: 100px;
+}
+
+.text-login {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.link-default {
+    color: #4e0070;
+    cursor: pointer;
+}
+
+.link-default:hover {
+    color: #4c79d3;
+}
+
