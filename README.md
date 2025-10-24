@@ -3,6 +3,10 @@
 * Nikel é um aplicativo de finanças pessoais simples, intuitivo e eficiente, criado para ajudar a organizar nossas finanças, controlar despesas e atingir nossos objetivos de forma descomplicada.
 * O mesmo foi desenvolvido do zero durante o curso **Codai 2.0 - Front-End**.
 
+## Deploy
+* Para melhor interação com o App foi feito deploy do mesmo no GitHub Pages, o mesmo pode ser acessado clicando abaixo:<br>
+<a href="https://lucasgyn94.github.io/js-nikel/" target="_blank">Nikel App</a>
+
 ## Principais Funcionalidades
 __Autenticação de Usuários__: Sistema completo de login e cadastro, com persistência de sessão.
 
